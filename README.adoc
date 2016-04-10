@@ -1,6 +1,9 @@
-== Instructions
+== Instructions for installation
 
-- clone repostitory
+- clone repository
+* git clone https://github.com/makruger/vimstuff.git
+- backup any existing ~/.vimrc
+* mv ~/.vimrc vimrc_backup
+- copy vimrc to home directory
+* mv vimrc ~/.vimrc
 - rename vimstuff to .vim
-- move README.adoc to home folder
-- rename README.ADOC to .vimrc
