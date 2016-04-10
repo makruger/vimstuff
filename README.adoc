@@ -1,0 +1,6 @@
+== Instructions
+
+- clone repostitory
+- rename vimstuff to .vim
+- move README.adoc to home folder
+- rename README.ADOC to .vimrc
