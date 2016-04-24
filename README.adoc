@@ -1,9 +1,10 @@
 == Instructions for installation
 
-- clone repository
-* git clone https://github.com/makruger/vimstuff.git
-- backup any existing ~/.vimrc
-* mv ~/.vimrc vimrc_backup
-- copy vimrc to home directory
-* mv vimrc ~/.vimrc
-- rename vimstuff to .vim
+* clone repository
+** git clone https://github.com/makruger/vimstuff.git
+* backup any existing ~/.vimrc and ~/.vim
+** mv ~/.vimrc vimrc_backup
+** mv ~/.vim vim_backup
+* move vimstuff/vimrc to home directory and rename as .vimrc
+** mv vimrc ~/.vimrc
+* rename vimstuff to .vim
